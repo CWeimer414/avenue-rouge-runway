@@ -14,14 +14,4 @@ Tickets will be available August 1. Sign up for [Avenue Rouge](http://www.225bat
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/vJBF1O5i1Ew?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Did you miss the show? Maybe you saw an outfit you can't live without? Click the photo below to recap everything seen on the runway.
-
-<a href="http://www.225batonrouge.com/apps/pbcs.dll/gallery?Site=LB&Date=20120927&Category=225BATONROUGE0105&ArtNo=928009998&Ref=PH#"><img src="http://www.225batonrouge.com/images/arrunway/RunwayLooks.png" /></a>
-
-Click <a href="http://www.225batonrouge.com/images/arrunway/AveRougeFashionShowProgram.pdf">here</a> to download a PDF of the program and follow along.
-
-From photos to videos, we have your who's who attendees covered.
-
-<a href="http://www.225batonrouge.com/apps/pbcs.dll/gallery?Site=LB&Date=20120927&Category=225BATONROUGE0105&ArtNo=927009999&Ref=PH#"><img src="http://www.225batonrouge.com/images/arrunway/RedCarpet.png" /></a>
-
 <iframe width="560" height="315" src="http://www.youtube.com/embed/AGNSOWL353U" frameborder="0" allowfullscreen></iframe>
