@@ -23,5 +23,5 @@ Elite Deluxe package includes: 2 Avenue Rouge Runway Tickets, 2 complimentary dr
 ### Watch the highlights from each collection in the video below.
 <iframe width="560" height="315" src="http://www.youtube.com/embed/vJBF1O5i1Ew?rel=0" frameborder="0" allowfullscreen></iframe>
 
-### Our red carpet corespondents caught some fabulous and fashionable attendees to interview!
+### Our red carpet correspondents caught some fabulous and fashionable attendees to interview!
 <iframe width="560" height="315" src="http://www.youtube.com/embed/AGNSOWL353U" frameborder="0" allowfullscreen></iframe>
