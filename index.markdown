@@ -9,23 +9,24 @@ title: Avenue Rouge Runway
 <div style="width:100%; text-align:left;" ><iframe src="http://www.eventbrite.com/tickets-external?eid=7082920205&ref=etckt&v=2" frameborder="0" height="450" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Online Ticketing</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://avenuerougerunway.eventbrite.com?ref=etckt">Avenue Rouge Runway</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
 For sponsors or presenting boutiques, enter your promotion code above to register guests and access pre-sale tickets. Don't have your code? [Click Here](mailto:christie@businessreport.com "Click Here") to contact our Events Department.
 <hr>
-Don't miss all the exicting updates for our 2013 show at L'auberge Casino Hotel! Choose one of our special hotel packages:
+Don't miss all the exicting updates for our 2013 show at L'auberge Casino Hotel!
+Choose one of our special hotel packages:
 
 <b>Elite Deluxe Package: $290</b>
 
-- 1 Avenue Rouge Runway Ticket
+- - One Avenue Rouge Runway Ticket
 
-- 2 complimentary drink tickets at Edge After Party
+- - Two complimentary drink tickets at Edge After Party
 
-- One night Standard Hotel Room
+- - One night Standard Hotel Room
 
 <b>Elite VIP Package for TWO: $530</b>
 
-- 2 Avenue Rouge Runway Tickets
+- - Two Avenue Rouge Runway Tickets
 
-- 2 complimentary drink tickets at Edge After Party
+- - Two complimentary drink tickets at Edge After Party
 
-- One night Standard Hotel Room PLUS Breakfast in Bed for TWO 
+- - One night Standard Hotel Room PLUS Breakfast in Bed for TWO 
 
 (Note: Price listed is per ticket for the two ticket package. You will be prompted to select a minimum of two tickets.)
 <hr>
