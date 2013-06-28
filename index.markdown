@@ -11,17 +11,16 @@ For sponsors or presenting boutiques, enter your promotion code above to registe
 
 Don't miss all the exicting updates for our 2013 show at L'auberge Casino Hotel! Choose one of our special hotel packages:
 
-<b>Elite Deluxe Package: $290</b>
+###<b>Elite Deluxe Package: $290</b>
 1 Avenue Rouge Runway Ticket
 2 complimentary drink tickets at Edge After Party
 One night Standard Hotel Room
 
-<b>Elite VIP Package for TWO: $530</b>
-
+###<b>Elite VIP Package for TWO: $530</b>
 2 Avenue Rouge Runway Tickets
 2 complimentary drink tickets at Edge After Party
 One night Standard Hotel Room PLUS Breakfast in Bed for TWO 
-_(Note: Price listed is per ticket for the two ticket package. You will be prompted to select a minimum of two tickets.)_
+(Note: Price listed is per ticket for the two ticket package. You will be prompted to select a minimum of two tickets.)
 
 ## Missed the show? 
 ### Watch the highlights from each collection in the video below.
