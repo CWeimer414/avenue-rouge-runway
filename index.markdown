@@ -12,17 +12,17 @@ For sponsors or presenting boutiques, enter your promotion code above to registe
 ###THIS YEAR WE ARE PROUD TO ANNOUNCE OUR EVENT WILL BE HELD A THE NEW L’AUBERGE CASINO HOTEL BATON ROUGE!
 Choose one of our special hotel packages:
 
-<b>Elite Deluxe Package: $290</b>
-- One Avenue Rouge Runway Ticket</ br>
-- Two complimentary drink tickets at Edge After Party</ br>
-- One night Standard Hotel Room
+<b>Elite Deluxe Package: $290</b></ br>
+ -One Avenue Rouge Runway Ticket</ br>
+ -Two complimentary drink tickets at Edge After Party</ br>
+ -One night Standard Hotel Room
 
 
 </ br>
-<b>Elite VIP Package for TWO: $530</b>
-- Two Avenue Rouge Runway Tickets</ br>
-- Two complimentary drink tickets at Edge After Party</ br>
-- One night Standard Hotel Room PLUS Breakfast in Bed for TWO
+<b>Elite VIP Package for TWO: $530</b></ br>
+ -Two Avenue Rouge Runway Tickets</ br>
+ -Two complimentary drink tickets at Edge After Party</ br>
+ -One night Standard Hotel Room PLUS Breakfast in Bed for TWO
 
 
 (Note: Price listed is per ticket for the two ticket package. You will be prompted to select a minimum of two tickets.)
