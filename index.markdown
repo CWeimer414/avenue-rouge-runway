@@ -15,7 +15,8 @@ Choose one of our special hotel packages:
 <b>Elite Deluxe Package: $290</b>
 - One Avenue Rouge Runway Ticket
 - Two complimentary drink tickets at Edge After Party
-- One night Standard Hotel Room<
+- One night Standard Hotel Room
+
 </ br>
 <b>Elite VIP Package for TWO: $530</b>
 - Two Avenue Rouge Runway Tickets</li>
