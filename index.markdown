@@ -10,24 +10,9 @@ title: Avenue Rouge Runway
 For sponsors or presenting boutiques, enter your promotion code above to register guests and access pre-sale tickets. Don't have your code? [Click Here](mailto:christie@businessreport.com "Click Here") to contact our Events Department.
 <hr>
 ###THIS YEAR WE ARE PROUD TO ANNOUNCE OUR EVENT WILL BE HELD A THE NEW L’AUBERGE CASINO HOTEL BATON ROUGE!
-Choose one of our special hotel packages:
-
-<b>Elite Deluxe Package: $290</b>
-<ui>
-<li> - One Avenue Rouge Runway Ticket</li>
-<li> - Two complimentary drink tickets at Edge After Party</li>
-<li> - One night Standard Hotel Room</li>
-</ui>
-
-</ br>
-<b>Elite VIP Package for TWO: $530</b>
-<ui>
-<li> - Two Avenue Rouge Runway Tickets</li>
-<li> - Two complimentary drink tickets at Edge After Party</li>
-<li> - One night Standard Hotel Room PLUS Breakfast in Bed for TWO</li>
-</ui>
-
-(Note: Price listed is per ticket for the two ticket package. You will be prompted to select a minimum of two tickets.)
+Check back for our special hotel packages!
+<hr>
+###Interested in modeling for the show? [Click Here](mailto:christie@businessreport.com "Click Here") to contact our Events Department.
 <hr>
 ### Missed the show? 
 <b>Watch the highlights from each collection in the video below.</b>
