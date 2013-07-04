@@ -40,8 +40,9 @@ Connect with us through our website, e-newsletters or social media to be the fir
 </td>        
 <td align="center" valign="top">       
 <!--AR twitter Box -->         
-<a class="twitter-timeline" width="225" href="https://twitter.com/Avenue_Rouge" data-widget-id="352835755716001793">Tweets by @Avenue_Rouge</a>
+<a class="twitter-timeline" width="225" height="100" href="https://twitter.com/Avenue_Rouge" data-widget-id="352835755716001793">Tweets by @Avenue_Rouge</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 </td>
 </tr>
 </table>
