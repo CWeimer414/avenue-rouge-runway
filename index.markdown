@@ -24,12 +24,12 @@ Check back for our special hotel packages!
 <hr> 
 <table>
 <tr>
-<td> <p> Did you miss the show? Maybe you saw an outfit you can't live without? Click the photo above to recap everything seen on the runway. </p></td>
+<td> <p> Did you miss the show? Maybe you saw an outfit you can't live without? Click the photo below to recap everything seen on the runway. </p></td>
 <td> <p>From photos to videos, we have your who's who attendees covered. </p> </td>
 </tr>
 <tr>
-<td> <a href="http://www.225batonrouge.com/apps/pbcs.dll/gallery?Site=LB&Date=20120927&Category=225BATONROUGE0105&ArtNo=928009998&Ref=PH#"><img height="150" src="http://www.225batonrouge.com/images/arrunway/RunwayLooks.png" /></a></td>
-<td><a href="http://www.225batonrouge.com/apps/pbcs.dll/gallery?Site=LB&Date=20120927&Category=225BATONROUGE0105&ArtNo=927009999&Ref=PH#"><img height="150" src="http://www.225batonrouge.com/images/arrunway/RedCarpet.png" /></a></td>
+<td> <a href="http://www.225batonrouge.com/apps/pbcs.dll/gallery?Site=LB&Date=20120927&Category=225BATONROUGE0105&ArtNo=928009998&Ref=PH#"><img height="75" src="http://www.225batonrouge.com/images/arrunway/RunwayLooks.png" /></a></td>
+<td><a href="http://www.225batonrouge.com/apps/pbcs.dll/gallery?Site=LB&Date=20120927&Category=225BATONROUGE0105&ArtNo=927009999&Ref=PH#"><img height="75" src="http://www.225batonrouge.com/images/arrunway/RedCarpet.png" /></a></td>
 </tr>
 </table>
           
