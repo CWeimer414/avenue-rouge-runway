@@ -24,7 +24,7 @@ Check back for our special hotel packages!
 <hr> 
 <table>
 <tr>
-<td> <p> Did you miss the show? < /br>Maybe you saw an outfit you can't live without? < /br>Click the photo below to recap everything seen on the runway. </p></td>
+<td> <p> Did you miss the show? Maybe you saw an outfit you can't live without? Click the photo below to recap everything seen on the runway. </p></td>
 <td> <p>From photos to videos, we have your who's who attendees covered. </p> </td>
 </tr>
 <tr>
