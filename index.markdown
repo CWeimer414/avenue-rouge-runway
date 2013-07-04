@@ -17,6 +17,23 @@ Check back for our special hotel packages!
 ### Missed the show? 
 <b>Watch the highlights from each collection in the video below.</b>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/vJBF1O5i1Ew?rel=0" frameborder="0" allowfullscreen></iframe>
+<p>Click <a href="http://www.225batonrouge.com/images/arrunway/AveRougeFashionShowProgram.pdf">here</a> to download a PDF of the program and follow along.</p>
 <hr>
 <b>Our red carpet correspondents caught some fabulous and fashionable attendees to interview!</b>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/AGNSOWL353U" frameborder="0" allowfullscreen></iframe>
+<hr> 
+<table>
+<tr>
+<td> <p> Did you miss the show? Maybe you saw an outfit you can't live without? Click the photo above to recap everything seen on the runway. </p></td>
+<td> <p>From photos to videos, we have your who's who attendees covered. </p> </td>
+</tr>
+<tr>
+<td> <a href="http://www.225batonrouge.com/apps/pbcs.dll/gallery?Site=LB&Date=20120927&Category=225BATONROUGE0105&ArtNo=928009998&Ref=PH#"><img height="150" src="http://www.225batonrouge.com/images/arrunway/RunwayLooks.png" /></a></td>
+<td><a href="http://www.225batonrouge.com/apps/pbcs.dll/gallery?Site=LB&Date=20120927&Category=225BATONROUGE0105&ArtNo=927009999&Ref=PH#"><img height="150" src="http://www.225batonrouge.com/images/arrunway/RedCarpet.png" /></a></td>
+</tr>
+</table>
+          
+
+         
+          
+
