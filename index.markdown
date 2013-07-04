@@ -11,6 +11,8 @@ For sponsors or presenting boutiques, enter your promotion code above to registe
 <hr>
 ### Missed our 2012 show? [Click here](http://www.avenuerougerunway.com/2012) for photos, videos, red carpet interviews and to download the program. 
 
+<hr>
+
 Connect with us through our website, e-newsletters or social media to be the first to know when tickets go on sale and for all our Runway coverage.
 <table align="center">
 <tr>
