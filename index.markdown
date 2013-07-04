@@ -10,32 +10,30 @@ title: Avenue Rouge Runway
 For sponsors or presenting boutiques, enter your promotion code above to register guests and access pre-sale tickets. Don't have your code? [Click Here](mailto:christie@businessreport.com "Click Here") to contact our Events Department.
 <hr>
 <!--how do I make a new page and refernece it? ### Missed our 2012 show? [Click here](http://www.avenuerougerunway.com/2012) for photos, videos, red carpet interviews and to download the program. -->
-        <div class="row">
-        <div class="col col-lg-12">
-          <div class="presentations">
-            <h2>Presentations By</h2>
-            <div class="presenters">
-              <ul>
-                <li><a href="http://aristocracyapparel.com/"><img src="http://www.225batonrouge.com/images/arr/aristocracy.png" /></a></li>
-                <li><a href="https://www.facebook.com/pages/Edit-by-LBP/115987308568201"><img src="http://www.225batonrouge.com/images/arr/edit.png" /></a></li>
-                <li><a href="http://www.frockcandy.com/"><img 	src="http://www.225batonrouge.com/images/arr/frockcandy.jpg" /></a></li>
-                <li><a href="http://allthingsmint.com/"><img src="http://www.225batonrouge.com/images/arr/mint.jpg" /></a></li>
-                <li><a href="http://www.lmfj.com/"><img src="http://www.225batonrouge.com/images/arr/lmfj.png" /></a></li>
-                <li><a href="https://www.facebook.com/pages/Vertage-Clothing/238456516211677"><img src="http://www.225batonrouge.com/images/arr/vertage.jpg" /></a></li>
-                <li><a href="http://www.evesapple.com/"><img src="http://www.225batonrouge.com/images/arr/EvesApple.png" /></a></li>
-                 <li><a href="http://www.georgebass.com/"><img src="http://www.225batonrouge.com/images/arr/georgebass.png" /></a></li>
-                <li><a href="http://www.nkboutique.com/"><img src="http://www.225batonrouge.com/images/arr/nk.png" /></a></li>
-                <li><a href="https://www.facebook.com/pages/FeBe-Clothing/50278537372"><im src="http://www.225batonrouge.com/images/arr/febe.png" /></a></li>
-                <li><a href="http://www.shopkikionline.com/web/"><img src="http://www.225batonrouge.com/images/arr/kiki.png" /></a></li>
-                <li><a href="https://www.facebook.com/RodeoBoutique"><img src="http://www.225batonrouge.com/images/arr/rodeo.png" /></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="presentations">
-            <h2>Special Presentations By</h2>
-            <div class="presenters">
-              <ul>
-                 <li><a href="http://idobridalcouture.com/"><img src="http://www.225batonrouge.com/images/arr/ido.png" /></a></li>
+        
+<div class="row">
+<div class="col col-lg-12">
+<div class="presentations">
+<h2>Presentations By</h2>
+<a href="http://aristocracyapparel.com/"><img src="http://www.225batonrouge.com/images/arr/aristocracy.png" /></a></li><li><a href="https://www.facebook.com/pages/Edit-by-LBP/115987308568201"><img src="http://www.225batonrouge.com/images/arr/edit.png" /></a></li>
+<li><a href="http://www.frockcandy.com/"><img 	src="http://www.225batonrouge.com/images/arr/frockcandy.jpg" /></a></li>
+<li><a href="http://allthingsmint.com/"><img src="http://www.225batonrouge.com/images/arr/mint.jpg" /></a></li>
+<li><a href="http://www.lmfj.com/"><img src="http://www.225batonrouge.com/images/arr/lmfj.png" /></a></li>
+<li><a href="https://www.facebook.com/pages/Vertage-Clothing/238456516211677"><img src="http://www.225batonrouge.com/images/arr/vertage.jpg" /></a></li>
+<li><a href="http://www.evesapple.com/"><img src="http://www.225batonrouge.com/images/arr/EvesApple.png" /></a></li>
+<li><a href="http://www.georgebass.com/"><img src="http://www.225batonrouge.com/images/arr/georgebass.png" /></a></li>
+<li><a href="http://www.nkboutique.com/"><img src="http://www.225batonrouge.com/images/arr/nk.png" /></a></li>
+<li><a href="https://www.facebook.com/pages/FeBe-Clothing/50278537372"><im src="http://www.225batonrouge.com/images/arr/febe.png" /></a></li>
+<li><a href="http://www.shopkikionline.com/web/"><img src="http://www.225batonrouge.com/images/arr/kiki.png" /></a></li>
+<li><a href="https://www.facebook.com/RodeoBoutique"><img src="http://www.225batonrouge.com/images/arr/rodeo.png" /></a></li>
+</ul>
+</div>
+</div>
+<div class="presentations">
+<h2>Special Presentations By</h2>
+ <div class="presenters">
+<ul>
+<li><a href="http://idobridalcouture.com/"><img src="http://www.225batonrouge.com/images/arr/ido.png" /></a></li>
 <li><a href="http://www.bellabridesmaid.com/index.php#mi=2&pt=1&pi=10000&s=0&p=0&a=3&at=0"> <img src="http://www.225batonrouge.com/images/arr/bellabridesmaidh.jpg" /> </a> </li>
 <hr>
 
