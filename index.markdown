@@ -15,9 +15,9 @@ For sponsors or presenting boutiques, enter your promotion code above to registe
 <div class="col col-lg-12">
 <div class="presentations">
 <h2>Presentations By</h2>
-<a href="http://aristocracyapparel.com/"><img src="http://www.225batonrouge.com/images/arr/aristocracy.png" /></a></li><li><a href="https://www.facebook.com/pages/Edit-by-LBP/115987308568201"><img src="http://www.225batonrouge.com/images/arr/edit.png" /></a></li>
-<li><a href="http://www.frockcandy.com/"><img 	src="http://www.225batonrouge.com/images/arr/frockcandy.jpg" /></a></li>
-<li><a href="http://allthingsmint.com/"><img src="http://www.225batonrouge.com/images/arr/mint.jpg" /></a></li>
+<a href="http://aristocracyapparel.com/"><img height="50" src="http://www.225batonrouge.com/images/arr/aristocracy.png" /></a></li><li><a href="https://www.facebook.com/pages/Edit-by-LBP/115987308568201"><img src="http://www.225batonrouge.com/images/arr/edit.png" /></a></li>
+<li><a href="http://www.frockcandy.com/"><img height="50"	src="http://www.225batonrouge.com/images/arr/frockcandy.jpg" /></a></li>
+<li><a href="http://allthingsmint.com/"><img height="50" src="http://www.225batonrouge.com/images/arr/mint.jpg" /></a></li>
 <li><a href="http://www.lmfj.com/"><img src="http://www.225batonrouge.com/images/arr/lmfj.png" /></a></li>
 <li><a href="https://www.facebook.com/pages/Vertage-Clothing/238456516211677"><img src="http://www.225batonrouge.com/images/arr/vertage.jpg" /></a></li>
 <li><a href="http://www.evesapple.com/"><img src="http://www.225batonrouge.com/images/arr/EvesApple.png" /></a></li>
