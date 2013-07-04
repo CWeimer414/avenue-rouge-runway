@@ -14,31 +14,31 @@ For sponsors or presenting boutiques, enter your promotion code above to registe
 Connect with us through our website, e-newsletters or social media to be the first to know when tickets go on sale and for all our Runway coverage.
 <table align="center">
 <tr>
-<td>         
+<td align="center" valign="top">         
 <!--225 Facebook Like Box -->       
 <div class="fb-like-box" data-href="https://www.facebook.com/225magazine" data-width="200" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
 </td>
-<td>
+<td align="center" valign="top">
 <!--INR Facebook Like Box -->        
  <div class="fb-like-box" data-href="https://www.facebook.com/inregistermagazine" data-width="250" data-height="100" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
 </td>
-<td>
+<td align="center" valign="top">
 <!--AR Facebook Like Box --> 
 <div class="fb-like-box" data-href="https://www.facebook.com/avenuerouge" data-width="200" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div> 
 </td>
 </tr>
 <tr>
-<td>
+<td align="center" valign="top">
 <!--225 twitter Box --> 
 <a href="https://twitter.com/225batonrouge" class="twitter-follow-button" data-show-count="false">Follow @225batonrouge</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </td>        
-<td>
+<td align="center" valign="top">
 <!--INR twitter Box -->
 <a href="https://twitter.com/inregister" class="twitter-follow-button" data-show-count="false">Follow @inregister</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </td>        
-<td>       
+<td align="center" valign="top">       
 <!--AR twitter Box -->         
 <a href="https://twitter.com/Avenue_Rouge" class="twitter-follow-button" data-show-count="false">Follow @Avenue_Rouge</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
