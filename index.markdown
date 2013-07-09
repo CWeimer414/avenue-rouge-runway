@@ -12,8 +12,6 @@ For sponsors or presenting boutiques, enter your promotion code above to registe
         
 Connect with us through our website, e-newsletters or social media to be the first to know when tickets go on sale and for all our Runway coverage.
 <hr>
-<div class="row">
-<div class="col col-lg-12">
 <div class="presentations">
 <h2>Presentations By</h2>
 <div class="presenters">
