@@ -38,7 +38,12 @@ Connect with us through our website, e-newsletters or social media to be the fir
             <div class="presenters">
               <ul>
                  <li><a href="http://idobridalcouture.com/"><img src="http://www.225batonrouge.com/images/arr/ido.png" /></a></li>
-<li><a href="http://www.bellabridesmaid.com/index.php#mi=2&pt=1&pi=10000&s=0&p=0&a=3&at=0"> <img src="http://www.225batonrouge.com/images/arr/bellabridesmaidh.jpg" /> </a> </li><hr>
+<li><a href="http://www.bellabridesmaid.com/index.php#mi=2&pt=1&pi=10000&s=0&p=0&a=3&at=0"> <img src="http://www.225batonrouge.com/images/arr/bellabridesmaidh.jpg" /> </a> </li>
+</div>
+</div>
+</div>
+</div>
+<hr>
 <table align="center">
 <tr>
 <td align="center" valign="top">         
