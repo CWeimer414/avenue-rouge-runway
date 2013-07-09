@@ -16,7 +16,7 @@ Connect with us through our website, e-newsletters or social media to be the fir
 <tr>
 <td align="center" valign="top">         
 <!--225 Facebook Like Box -->       
-<div class="fb-like-box" data-href="https://www.facebook.com/225magazine" data-width="225" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
+<div class="fb-like-box" data-href="https://www.facebook.com/225magazine" data-width="225" data-height="100" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
 </td>
 <td align="center" valign="top">
 <!--INR Facebook Like Box -->        
