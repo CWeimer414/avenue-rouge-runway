@@ -12,9 +12,7 @@ For sponsors or presenting boutiques, enter your promotion code above to registe
         
 Connect with us through our website, e-newsletters or social media to be the first to know when tickets go on sale and for all our Runway coverage.
 <hr>
-<div class="presentations">
 <h2>Presentations By</h2>
-<div class="presenters">
 <ul>
 <li><a href="http://aristocracyapparel.com/"><img src="http://www.225batonrouge.com/images/arr/aristocracy.png" /></a></li>
 <li><a href="https://www.facebook.com/pages/Edit-by-LBP/115987308568201"><img src="http://www.225batonrouge.com/images/arr/edit.png" /></a></li>
@@ -31,9 +29,7 @@ Connect with us through our website, e-newsletters or social media to be the fir
 </ul>
 </div>
 </div>
-<div class="presentations">
 <h2>Special Presentations By</h2>
-<div class="presenters">
 <ul>
 <li><a href="http://idobridalcouture.com/"><img src="http://www.225batonrouge.com/images/arr/ido.png" /></a></li>
 <li><a href="http://www.bellabridesmaid.com/index.php#mi=2&pt=1&pi=10000&s=0&p=0&a=3&at=0"> <img src="http://www.225batonrouge.com/images/arr/bellabridesmaidh.jpg" /> </a> </li>
