@@ -4,8 +4,7 @@ layout: home
 title: Avenue Rouge Runway 2012
 ---
 
-
-#Take a look back a photos and videos from our 2012 Runway Show.
+#Take a look back a photos and videos from our 2012 Runway Show!
 ###Click the image above to return to this year's show
 
 <div align="center">			
