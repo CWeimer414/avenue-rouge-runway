@@ -4,6 +4,8 @@ layout: home
 title: Avenue Rouge Runway 2012
 ---
 
+#Take a look back a photos and videos from our 2011 Runway Show.
+###Click the image above to return to this year's show
 <div align="center"><p>This year's Avenue Rouge Runway on September 22nd featured New York designer BB DAKOTA and took place at Celtic Media Studios. Check out our re-cap video covering the full event from set-up, to the runway through the post-party. Video courtesy Brock Gomez Productions.</p>
 <p> </p>
 <iframe width="470" height="320" src="http://www.youtube.com/embed/iNmi6u1TiEU?hd=1" frameborder="0" allowfullscreen></iframe>
