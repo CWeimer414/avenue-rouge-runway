@@ -5,13 +5,12 @@ title: Avenue Rouge Runway 2012
 ---
 
 <div align="center">			
-<p><img src="/images/ARR2012.jpg" alt="AvenueRougeRunway" align="center" /></img></p>
 <p>This year's Avenue Rouge Runway featured fall previews from popular boutiques in the Capital Region. Check out highlights from the runway courtesy Brock Gomez Productions.</p>
 <p></p>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/vJBF1O5i1Ew?rel=0" frameborder="0" allowfullscreen></iframe>
 <p> </p>
 <p>Did you miss the show? Maybe you saw an outfit you can't live without? Click the photo below to recap everything seen on the runway.</p>
-<p><a href="http://www.225batonrouge.com/apps/pbcs.dll/gallery?Site=LB&Date=20120927&Category=225BATONROUGE0105&ArtNo=928009998&Ref=PH#"><img src="/images/arrunway/RunwayLooks.png" /></a></p>
+<p><a href="http://www.225batonrouge.com/apps/pbcs.dll/gallery?Site=LB&Date=20120927&Category=225BATONROUGE0105&ArtNo=928009998&Ref=PH#"><img src="/img/arrunway/RunwayLooks.png" /></a></p>
 <p> </p>
 <p>Click <a href="/img/arrunway/AveRougeFashionShowProgram.pdf">here</a> to download a PDF of the program and follow along.</p>
 
