@@ -36,7 +36,7 @@ For sponsors or presenting boutiques, enter your promotion code above to registe
   <h2>Special Presentations By</h2>
   <div class="presenters">
     <ul>
-       <li><a href="http://idobridalcouture.com/" target="_blank"><img src="/img/idocouture.jpg" /></a></li>
+       <li><a href="http://idobridalcouture.com/" target="_blank"><img src="/img/idocouture.png" /></a></li>
       <li><a href="http://www.bellabridesmaid.com/index.php#mi=2&pt=1&pi=10000&s=0&p=0&a=3&at=0" target="_blank"> <img src="/img/logos/bellabridesmaidh.jpg" /> </a> </li>
     </ul>
   </div>
