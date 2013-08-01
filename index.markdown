@@ -48,5 +48,6 @@ Due to runway apparel the following are required for model applicants:
 Females-minimum height: 5’8”*size 4 and under
 Males-minimum height: 5’10”
 <hr>
- <div class="fb-like-box" data-href="https://www.facebook.com/225magazine" data-width="225" data-height="100" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
-<div class="fb-like-box" data-href="https://www.facebook.com/inregistermagazine" data-width="225" data-height="100" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
+<a class="twitter-timeline" width="600" height="350" href="https://twitter.com/search?q=%23ARrunway" data-widget-id="362965140867518466">Tweets about "#ARrunway"</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
