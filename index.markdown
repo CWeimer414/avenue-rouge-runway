@@ -42,10 +42,11 @@ For sponsors or presenting boutiques, enter your promotion code above to registe
     </ul>
   </div>
 </div>
-
-<div class="row">
-         <div class="fb-like-box" data-href="https://www.facebook.com/225magazine" data-width="225" data-height="100" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
-        </div>
-<div class="row">
-          <div class="fb-like-box" data-href="https://www.facebook.com/inregistermagazine" data-width="225" data-height="100" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
-        </div>
+<hr>
+If you are interested in modeling in this year’s show, please email your name, measurements, and headshot to [models@225batonrouge.com](emailto:models@225batonrouge.com). 
+Due to runway apparel the following are required for model applicants:
+Females-minimum height: 5’8”*size 4 and under
+Males-minimum height: 5’10”
+<hr>
+ <div class="fb-like-box" data-href="https://www.facebook.com/225magazine" data-width="225" data-height="100" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
+<div class="fb-like-box" data-href="https://www.facebook.com/inregistermagazine" data-width="225" data-height="100" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
