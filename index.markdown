@@ -42,3 +42,11 @@ For sponsors or presenting boutiques, enter your promotion code above to registe
     </ul>
   </div>
 </div>
+
+    <div class="row">
+        <div class="col col-lg-4">
+          <div class="fb-like-box" data-href="https://www.facebook.com/225magazine" data-width="225" data-height="100" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
+        </div>
+        <div class="col col-lg-4">
+          <div class="fb-like-box" data-href="https://www.facebook.com/inregistermagazine" data-width="225" data-height="100" data-show-faces="false" data-stream="false" data-show-border="true" data-header="true"></div>
+        </div>
