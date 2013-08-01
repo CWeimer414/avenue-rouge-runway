@@ -4,13 +4,14 @@ layout: home
 title: Avenue Rouge Runway
 ---
 
+### **Join 225 and inRegister as we present the biggest night of fashion in Baton Rouge!**
+Be our guest at our chic runway show featuring upscale boutiques from the Capital Region showcasing their hottest fall fashions, complete with food, fun, cocktails, music and more! Don't forget to add a L'auberge hotel package to your ticket order enjoy the Edge after party, standard hotel room and breakfast in bed!
+### **Come experience the many colors of the season...and discoverYOURcolor!**
 <!-- Eventbrite Ticket Sales -->
 <div style="width:100%; text-align:left;" ><iframe src="http://www.eventbrite.com/tickets-external?eid=7082920205&ref=etckt&v=2" frameborder="0" height="325" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Online Ticketing</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://avenuerougerunway.eventbrite.com?ref=etckt">Avenue Rouge Runway</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
-For sponsors or presenting boutiques, enter your promotion code above to register guests and access pre-sale tickets. Don't have your code? [Click Here](mailto:christie@businessreport.com "Click Here") to contact our Events Department.
+For sponsors or presenting boutiques, enter your promotion code above to register guests and access sponsorship tickets. Don't have your code? [Click Here](mailto:christie@businessreport.com "Click Here") to contact our Events Department.
 <hr>
-<!--how do I make a new page and refernece it? ### Missed our 2012 show? [Click here](http://www.avenuerougerunway.com/2012) for photos, videos, red carpet interviews and to download the program. -->
-
-###Tickets will be available August 1st. Connect with us through our website, e-newsletters or social media to be the first to know!
+###Check back starting September 1st for all our fashion month updates including: a chance to win two Elite Tickets ($200 value), special coverage from our guest bloggers all month long AND live photo and video coverage the night of the show! 
 <hr>
 
 <div class="presentations">
