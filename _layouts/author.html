@@ -1,0 +1,8 @@
+---
+layout: home
+---
+{% assign author = site.authors[page.author] %}
+<h2>{{ author.name }}</h2>
+<a href="//twitter.com/{{ author.twitter }}">Twitter</a> - <a href="{{ author.web }}">Website</a>
+
+{{ content }}

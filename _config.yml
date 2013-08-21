@@ -1,3 +1,14 @@
-name: Your New Jekyll Site
+name: Avenue Rouge Runway
 pygments: true
 markdown: rdiscount
+authors:
+  jennifer:
+    name: Jennifer Palpallatoc
+    display_name: Jennifer
+    web: http://hauteofftherack.com
+    twitter: HauteOffTheRack
+  krystal:
+    name: Krystal Bennett
+    display_name: Krystal
+    web: http://apinchoflovely.com
+    twitter: KrystalBennett
