@@ -12,3 +12,14 @@ authors:
     display_name: Krystal
     web: http://apinchoflovely.com
     twitter: KrystalBennett
+prose:
+  metadata:
+    _posts:
+      - name: "author"
+        field:
+          element: select
+          options:
+            - name: "Jennifer"
+              value: "jennifer"
+            - name: "Krystal"
+              value: "krystal"
