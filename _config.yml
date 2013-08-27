@@ -18,6 +18,7 @@ prose:
       - name: "author"
         field:
           element: select
+          label: "Author"
           options:
             - name: "Jennifer"
               value: "jennifer"
