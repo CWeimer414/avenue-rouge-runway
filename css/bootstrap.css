@@ -5169,3 +5169,10 @@ a.list-group-item.active > .badge,
     display: none !important;
   }
 }
+
+.author_image {
+  width: 200px;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
