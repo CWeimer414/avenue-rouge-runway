@@ -5176,3 +5176,8 @@ a.list-group-item.active > .badge,
   margin-right: 15px;
   margin-bottom: 15px;
 }
+
+.photoset img {
+  width: 100%;
+  margin-bottom: 15px;
+}
