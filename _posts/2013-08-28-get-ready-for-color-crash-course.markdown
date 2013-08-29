@@ -21,5 +21,5 @@ Much like colors, we as bloggers complement each other. Join us as we share both
 
 You’ll also have the opportunity to win tickets to the event by participating in our weekly giveaway questions on Instagram or Twitter!
 
-Tell us what color complements you best by submitting a photo via Instagram/Twitter and hashtagging #DiscoverYourColor or in the gallery below for a chance to win 2 Elite tickets ($200 value) to the Avenue Rouge Runway Fashion Show.(Must be 21 or older to attend.)
+## Tell us what color complements you best by submitting a photo via Instagram/Twitter and hashtagging DiscoverYourColor or in the gallery below for a chance to win 2 Elite tickets ($200 value) to the Avenue Rouge Runway Fashion Show.(Must be 21 or older to attend.)
 
