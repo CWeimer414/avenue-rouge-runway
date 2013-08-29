@@ -7,11 +7,13 @@ authors:
     display_name: Jennifer
     web: http://hauteofftherack.com
     twitter: HauteOffTheRack
+    image: /img/jennifer.jpg
   krystal:
     name: Krystal Bennett
     display_name: Krystal
     web: http://apinchoflovely.com
     twitter: KrystalBennett
+    image: /img/krystal.jpg
 prose:
   metadata:
     _posts:
