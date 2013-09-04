@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "incorporating-colorful-accessories"
 author: krystal
 date: "2013-09-04 02:00"
@@ -9,7 +9,7 @@ date: "2013-09-04 02:00"
 ---
 layout: post
 published: false
-title: "incorporating-colorful-accessories"
+title: "Incorporating Colorful Accessories"
 author: krystal
 ---
 
