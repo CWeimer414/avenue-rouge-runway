@@ -2,14 +2,15 @@
 layout: post
 published: false
 title: "incorporating-colorful-accessorie"
-author: jennifer
+author: krystal
+date: "2013-04-09 02:00"
 ---
 
 ---
 layout: post
 published: false
 title: "incorporating-colorful-accessories"
-author: jennifer
+author: krystal
 ---
 
 Like nature changing it’s color palette from summer to fall, it’s also time to change our own colors choices. With the new season and a farewell to August, you can expect to see light and airy hues getting replaced with bold, saturated ones. The easiest place to start incorporating these new colors into your wardrobe now – your accessories. To scope out the best in color accessories, I visited [Kiki in Perkins Rowe](https://www.facebook.com/shopkiki) to see its new fall arrivals. 
