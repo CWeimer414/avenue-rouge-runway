@@ -44,3 +44,4 @@ Cut25 scarf from [Kiki](https://www.facebook.com/shopkiki)
 
 ## Week 2 Giveaway Question
 ### Share a photo of your favorite colorful accessory. Remember to submit your photo via Instagram/Twitter and hashtag #ARRunway & #DiscoverYourColor for a chance to win 2 Elite tickets ($200 value) to the Avenue Rouge Runway Fashion Show.
+<div id="olapic_widget"></div><script type="text/javascript" src="https://widgets.olapic.com/render?element_id=olapic_widget&customer_id=215621&widget_type=full&gallery=1740979539"></script>
