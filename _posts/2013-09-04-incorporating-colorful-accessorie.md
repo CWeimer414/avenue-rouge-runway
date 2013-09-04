@@ -12,7 +12,7 @@ Let’s start with handbags (my favorite)! I’m looking forward to utilizing bl
 ![/img/blogs/Accessories1.JPG](/img/blogs/Accessories1.JPG)
 Marc Jacobs clutch from [Kiki](https://www.facebook.com/shopkiki)
 
-![/img/blogs/Accessories2.JPG](//img/blogs/Accessories2.JPG)
+![/img/blogs/Accessories2.JPG](/img/blogs/Accessories2.JPG)
 Rebecca Minkoff Mini Mac from [Kiki](https://www.facebook.com/shopkiki)
 
 Since you’ve got your colored handbag down, let’s add some more hues into your wristwear. These Chan Luu leather beaded bracelets are versatile and under $30! They come in some great seasonal colors like orange and teal. Wear them together or match them with bracelets you already have. These are great, affordable pieces for a quick and easy color update. 
