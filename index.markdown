@@ -13,12 +13,14 @@ Be our guest at our chic runway show on September 26th featuring upscale boutiqu
 For sponsors or presenting boutiques, enter your promotion code above to register guests and access sponsorship tickets. Don't have your code? [Click Here](mailto:christie@businessreport.com "Click Here") to contact our Events Department.
  <hr>
 <img style "height:300px" src="/img/crashcourse.jpg"/>
+<h3>Upload your fashion photo or tag #discoverYOURcolor on twitter or instagram for a chance to win two tickets!</h3>
 <h4>Latest Blog Posts:</h4>
 <ul>
   {% for post in site.posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+<div id="olapic_widget"></div><script type="text/javascript" src="https://widgets.olapic.com/render?element_id=olapic_widget&customer_id=215621&widget_type=full&gallery=1740979539"></script>
 <hr>
 
 <div class="presentations">
