@@ -51,4 +51,3 @@ For sponsors or presenting boutiques, enter your promotion code above to registe
     </ul>
   </div>
 </div>
-</div>
