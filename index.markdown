@@ -11,7 +11,9 @@ Be our guest at our chic runway show on September 26th at 7:00 p.m. featuring up
 If a ticket becomes available, you will be contacted automatically with further instructions on how to purchase your ticket. You will have 24 hours from the time the ticket is released to claim it.!
 <!-- Eventbrite Ticket Sales -->
 <div style="width:100%; text-align:left;" ><iframe src="http://www.eventbrite.com/tickets-external?eid=7082920205&ref=etckt&v=2" frameborder="0" height="280" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Online Ticketing</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://avenuerougerunway.eventbrite.com?ref=etckt">Avenue Rouge Runway</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
-###Can't make the show? Bookmark this page to watch the LiveStream, presented by Launch Media, starting at 7:00 p.m. Thursday, September 26th!
+<hr>
+###Can't make the show? Bookmark this page to watch the LiveStream, presented by <a href="http://www.launchmedia.tv/" target="_blank">Launch Media</a>, starting at 7:00 p.m. Thursday, September 26th!
+<hr>
 <img style "height:300px" src="/img/crashcourse.jpg"/>
 <h3>Upload your fashion photo or tag #discoverYOURcolor on twitter or instagram for a chance to win two tickets!</h3>
 <h4>Latest Blog Posts:</h4>
