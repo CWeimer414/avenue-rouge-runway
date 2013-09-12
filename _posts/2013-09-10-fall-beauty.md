@@ -6,8 +6,6 @@ author: jennifer
 date: "2013-09-10 12:00"
 ---
 
-## A New Post
-
 What are the “it” colors for Fall 2013 beauty products you ask?  Well, I am no beauty expert so I went to professional makeup artist, Ashley Sievert for advice on which new colors to incorporate into my makeup this fall.  To answer your question, this season’s “it” colors are a matte berry for the lips, a gold amber shadow for the eyes and a nude blush for your cheeks, says Sievert. 
 
 ![](/img/blogs/amber-shadow.jpg) 
