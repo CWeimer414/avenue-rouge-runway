@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Inside I DO Bridal Boutique
 author: krystal
 ---
