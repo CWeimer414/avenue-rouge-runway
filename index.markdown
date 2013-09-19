@@ -14,7 +14,7 @@ If a ticket becomes available, you will be contacted automatically with further 
 <hr>
 <img src="/img/ContestAd.jpg" style="width:200px;float:left;margin-right:15px;margin-bottom:15px;" /><img src="/img/crashcourse.jpg" style="width:450px;float:left;margin-right:15px;margin-bottom:15px;" />  
 
-<h3>LAST CHANCE to upload your fashion photo or tag #discoverYOURcolor on twitter, facebook, instagram or the "submit" button below. You have until midnight Monday, September 23rd for a chance to win two tickets!</h3>
+<h3>LAST CHANCE to upload your fashion photo or tag #discoverYOURcolor on twitter, facebook, instagram or the "upload" button below. You have until midnight Monday, September 23rd for a chance to win two tickets!</h3>
 <i>Winner will be contacted by 5:00 p.m. Tuesday, September 24th</i>
 <h4>Latest Blog Posts:</h4>
 <ul>
