@@ -13,16 +13,16 @@ If a ticket becomes available, you will be contacted automatically with further 
 <a href="http://www.launchmedia.tv/launch-media-live/avenuerougerunway2013"target="_blank"><img src="/img/ARRvideocapturev2.jpg" style="width:400px;float:left;margin-right:15px;margin-bottom:15px;" /></a><H3>Can't make the show? Bookmark this page to watch red carpet interviews and the main show on our live webcast, powered by <a href="http://www.launchmedia.tv/" target="_blank">Launch Media LIVE</a>, starting at 7:00 p.m. on Thursday, September 26th!</h3>
 </ br>
 <hr>
-<img src="/img/ContestAd.jpg" style="width:200px;float:left;margin-right:15px;margin-bottom:15px;" /><img src="/img/crashcourse.jpg" style="width:450px;float:left;margin-right:15px;margin-bottom:15px;" />  
-
-<h3>LAST CHANCE to upload your fashion photo or tag #discoverYOURcolor on twitter, facebook, instagram or the "upload" button below for a chance to win two tickets to the sold out show!</h3>
-<i>Winner will be contacted by Tuesday, September 24th</i>
-<h4>Latest Blog Posts:</h4>
+<h3>Latest Color Crash Course #ARrunway Blog Posts:</h3>
 <ul>
   {% for post in site.posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+<hr>
+<img src="/img/ContestAd.jpg" style="width:200px;float:left;margin-right:15px;margin-bottom:15px;" /><img src="/img/crashcourse.jpg" style="width:450px;float:left;margin-right:15px;margin-bottom:15px;" />  
+
+<b>LAST CHANCE to upload your fashion photo or tag #discoverYOURcolor on twitter, facebook, instagram or the "upload" button below for a chance to win two tickets to the sold out show!</b> <i>Winner will be contacted by Tuesday, September 24th</i>
 <div id="olapic_widget"></div><script type="text/javascript" src="https://widgets.olapic.com/render?element_id=olapic_widget&customer_id=215621&widget_type=full&gallery=1740979539"></script>
 <hr>
 
