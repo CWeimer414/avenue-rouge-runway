@@ -36,10 +36,12 @@ Want to pack a big punch with a small purse? Opt for a metallic clutch.
 
 These are such great staple pieces because metals can literally be paired with any color in your closet. If you’re feeling like you’ve mastered gold and silver, check out this pretty rose gold option at EDIT by LBP.   
 
-Or if you’re playing with the idea of working more metallic into your wardrobe, start with a classic gold clutch like this one from Frock Candy. It will help introduce you to the trend without breaking your budget!    
+Or if you’re playing with the idea of working more metallic into your wardrobe, start with a classic gold clutch like this one from Frock Candy.   
+
+It will help introduce you to the trend without breaking your budget!    
   
   
-  
+    
 ## This is your LAST WEEK to submit a fashion photo through the upload tool below or via Instagram/Twitter and hashtagging DiscoverYourColor or in the gallery below for a chance to win 2 Elite tickets ($200 value) to the Avenue Rouge Runway Fashion Show.  
 <i>(Must be 21 or older to attend. Content ends Monday, Sept 23rd  at midnight. Winner will be notified by 5:00 p.m. Tuesday, September 22nd)</i>
 
