@@ -6,11 +6,11 @@ title: Avenue Rouge Runway
 
 ### **Join 225 and inRegister as we present the biggest night of fashion in Baton Rouge!**
 Be our guest at our chic runway show on September 26th at 7:00 p.m. featuring upscale boutiques from the Capital Region showcasing their hottest fall fashions, complete with food, fun, cocktails, music and more! **Come experience the many colors of the season...and #discoverYOURcolor!**
-##TICKETS ARE SOLD OUT! 
-###<a href="https://avenuerougerunway.eventbrite.com/">Click here to add your name to the waitlist</a>, or update the names for existing tickets. 
+###TICKETS ARE SOLD OUT! 
+<a href="https://avenuerougerunway.eventbrite.com/">Click here to add your name to the waitlist</a>, or update the names for existing tickets. 
 If a ticket becomes available, you will be contacted automatically with further instructions on how to purchase your ticket. You will have 24 hours from the time the ticket is released to claim it.!
 <hr>
-<a href="http://www.launchmedia.tv/launch-media-live/avenuerougerunway2013"target="_blank"><img src="/img/ARRvideocapturev2.jpg" style="width:400px;float:left;margin-right:15px;margin-bottom:15px;" /></a><H3>Can't make the show? Bookmark this page to watch red carpet interviews and the main show on our live webcast, powered by <a href="http://www.launchmedia.tv/" target="_blank">Launch Media LIVE</a>, starting at 7:15 p.m. on Thursday, September 26th!</h3>
+<a href="http://www.launchmedia.tv/launch-media-live/avenuerougerunway2013"target="_blank"><img src="/img/ARRvideocapturev2.jpg" style="width:400px;float:left;margin-right:15px;margin-bottom:15px;" /></a><H3>Can't make the show? Bookmark this page to watch red carpet interviews and the main show on our live webcast, powered by <a href="http://www.launchmedia.tv/" target="_blank">Launch Media LIVE</a>, starting at 7:00 p.m. on Thursday, September 26th!</h3>
 </ br>
 <hr>
 <img src="/img/ContestAd.jpg" style="width:200px;float:left;margin-right:15px;margin-bottom:15px;" /><img src="/img/crashcourse.jpg" style="width:450px;float:left;margin-right:15px;margin-bottom:15px;" />  
