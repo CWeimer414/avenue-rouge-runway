@@ -9,7 +9,7 @@ published: true
 ##Big Trends Seen Around Town
 ###Feline Footwear
 There has been a recent surge in feline fashion pieces for fall. From sweaters, crop tops and tees, the cat family is having a major moment. The most recent item they've taken over – flats! In all different colors, materials and cats of your choosing, these new pieces have been popping up all over town. I spotted these luxe Leoffler Randall Tiger flats at EDIT by LBP and these kitten-faced, black flats at Frock Candy at Perkins Rowe. Pair them both with jewel tones for a chic but playful look!
-<img src="/img/ArticleImage1.JPG" style="width:250px;" /><img src="/img/ArticleImage2.JPG" style="width:250px;" />
+<img src="/img/ArticleImage1.JPG" style="width:250px;float:left;margin-right:15px;margin-bottom:15px;" /><img src="/img/ArticleImage2.JPG" style="width:250px;" />
 
 ###Embellished Collars
 Collars really took the stage last fall/winter and are now back and better than ever. Intricate beading and even simplistic rhinestones will draw the eye to the neckline without having to enlist the help of a necklace. The trend crosses from everyday fashion to even bridal fashion. This green top from Frock Candy can be worn for the day-or-night occasion, and this amazing beaded beauty from I Do Bridal Boutique can be worn for your BIG day!
@@ -24,4 +24,4 @@ Want to pack a big punch with a small purse? Opt for a metallic clutch. These ar
 
 <div id="olapic_widget"></div><script type="text/javascript" src="https://widgets.olapic.com/render?element_id=olapic_widget&customer_id=215621&widget_type=full&gallery=1740979539"></script>
 
-<img src="/img/ContestAd.jpg" style="width:300px;" />
+<img src="/img/ContestAd.jpg" style="width:600px;" />
