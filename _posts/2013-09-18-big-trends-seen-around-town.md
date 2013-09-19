@@ -22,7 +22,9 @@ Pair them both with jewel tones for a chic but playful look!
 <img src="/img/ArticleImage3.JPG" style="width:200px;float:left;margin-right:15px;margin-bottom:15px;" /><img src="/img/ArticleImage4.JPG" style="width:200px;float:left;margin-right:15px;margin-bottom:15px;" />
 Collars really took the stage last fall/winter and are now back and better than ever.   
 
-Intricate beading and even simplistic rhinestones will draw the eye to the neckline without having to enlist the help of a necklace. The trend crosses from everyday fashion to even bridal fashion.   
+Intricate beading and even simplistic rhinestones will draw the eye to the neckline without having to enlist the help of a necklace.   
+
+The trend crosses from everyday fashion to even bridal fashion.   
 
 This green top from Frock Candy can be worn for the day-or-night occasion, and this amazing beaded beauty from I Do Bridal Boutique can be worn for your BIG day!    
   
