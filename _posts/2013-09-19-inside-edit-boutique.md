@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Inside EDIT boutique
 author: krystal
 date: "2013-09-19 04:30"
