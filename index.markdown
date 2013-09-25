@@ -5,6 +5,9 @@ title: Avenue Rouge Runway
 ---
 
 ### **Join 225 and inRegister as we present the biggest night of fashion in Baton Rouge!**
+
+<iframe src="//player.vimeo.com/video/75297419?byline=0&amp;portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Be our guest at our chic runway show on September 26th at 7:00 p.m. featuring upscale boutiques from the Capital Region showcasing their hottest fall fashions, complete with food, fun, cocktails, music and more! **Come experience the many colors of the season...and #discoverYOURcolor!**
 ###TICKETS ARE SOLD OUT! 
 <a href="https://avenuerougerunway.eventbrite.com/">Click here to add your name to the waitlist</a>, or update the names for existing tickets. 
