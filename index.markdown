@@ -9,10 +9,10 @@ This year's SOLD OUT Avenue Rouge Runway show was on September 26th at 7:00 p.m.
 ###Missed the show or want to see photos an videos from the event? Check out the photos and videos from show below.
 
 <hr>
-<a href="http://photos.225batonrouge.com/2115929059?fb_ref=g2115929059"><img style "height:300px" src="/img/looks.jpg"/></a>
+<a href="http://photos.225batonrouge.com/2115929059?fb_ref=g2115929059"><img style "height:300px" src="/img/looks.jpg" /></a>
 Click the photo to get a peek backstage and at all the looks from the 2013 Runway
 <hr>
-<a href="http://photos.225batonrouge.com/322745737?fb_ref=g322745737"><img style "height:300px" src="/img/redcarpet.jpg"/></a>
+<a href="http://photos.225batonrouge.com/322745737?fb_ref=g322745737"><img style "height:300px" src="/img/redcarpet.jpg" /></a>
 Click the photo to see all our fabulous red carpet guests
 <hr>
 ###Missed the event or want to see our red carpet interviews? [Click here](http://www.launchmedia.tv/launch-media-live/avenuerougerunway2013) to watch the livestream, presented by <a href="http://www.launchmedia.tv/" target="_blank">Launch Media</a>
