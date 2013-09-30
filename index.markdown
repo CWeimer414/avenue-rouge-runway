@@ -4,26 +4,22 @@ layout: home
 title: Avenue Rouge Runway
 ---
 
-### **Join 225 and inRegister as we present the biggest night of fashion in Baton Rouge!**
-Be our guest at our chic runway show on September 26th at 7:00 p.m. featuring upscale boutiques from the Capital Region showcasing their hottest fall fashions, complete with food, fun, cocktails, music and more! **Come experience the many colors of the season...and #discoverYOURcolor!**
-##TICKETS ARE SOLD OUT! 
-###<a href="https://avenuerougerunway.eventbrite.com/">Click here to add your name to the waitlist</a>, or update the names for existing tickets. 
-If a ticket becomes available, you will be contacted automatically with further instructions on how to purchase your ticket. You will have 24 hours from the time the ticket is released to claim it.!
-<hr>
-###Can't make the show? Bookmark this page to watch red carpet interviews and the main show on our live webcast, powered by <a href="http://www.launchmedia.tv/" target="_blank">Launch Media LIVE</a>, starting at 7:15 p.m. on Thursday, September 26th!
-<a href="http://www.launchmedia.tv/launch-media-live/avenuerougerunway2013"target="_blank"><img src="/img/ARRvideocapturev2.jpg" style="width:400px;" /></a>
-<hr>
-<img src="/img/ContestAd.jpg" style="width:200px;float:left;margin-right:15px;margin-bottom:15px;" /><img src="/img/crashcourse.jpg" style="width:450px;float:left;margin-right:15px;margin-bottom:15px;" />  
+### **225 and inRegister present the biggest night of fashion in Baton Rouge!**
+This year's SOLD OUT Avenue Rouge Runway show was on September 26th at 7:00 p.m. featuring upscale boutiques from the Capital Region showcasing their hottest fall fashions, complete with food, fun, cocktails, music and more! 
+###Missed the show or want to see photos an videos from the event? Check out the photos and videos from show below.
 
-<h3>LAST CHANCE to upload your fashion photo or tag #discoverYOURcolor on twitter, facebook, instagram or the "upload" button below for a chance to win two tickets to the sold out show!</h3>
-<i>Winner will be contacted by Tuesday, September 24th</i>
-<h4>Latest Blog Posts:</h4>
-<ul>
-  {% for post in site.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-<div id="olapic_widget"></div><script type="text/javascript" src="https://widgets.olapic.com/render?element_id=olapic_widget&customer_id=215621&widget_type=full&gallery=1740979539"></script>
+<hr>
+<a href="http://photos.225batonrouge.com/2115929059?fb_ref=g2115929059"><img style "height:300px" src="/img/looks.jpg" /></a>
+Click the photo to get a peek backstage and at all the looks from the 2013 Runway
+<hr>
+<a href="http://photos.225batonrouge.com/322745737?fb_ref=g322745737"><img style "height:300px" src="/img/redcarpet.jpg" /></a>
+Click the photo to see all our fabulous red carpet guests
+<hr>
+###Missed the event or want to see our red carpet interviews? [Click here](http://www.launchmedia.tv/launch-media-live/avenuerougerunway2013) to watch the livestream, presented by <a href="http://www.launchmedia.tv/" target="_blank">Launch Media</a>
+<hr>
+###Add your own photo from the event and check out other attendee photos. Click the upload button below to add pictures from Instagram, Facebook, Flickr  and your computer or post them to twitter or instagram with the #ARRunway hashtag.
+<div id="olapic_widget"></div><script type="text/javascript" src="https://widgets.olapic.com/render?element_id=olapic_widget&customer_id=215621&widget_type=full&gallery=104472384"></script>
+
 <hr>
 
 <div class="presentations">
