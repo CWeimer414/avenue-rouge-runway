@@ -15,8 +15,7 @@ Click the photo above to get a peek backstage and at all the looks from the 2013
 <a href="http://photos.225batonrouge.com/322745737?fb_ref=g322745737"><img style "height:300px" src="/img/redcarpet.jpg"/></a>
 Click the photo above to see all our fabulous red carpet guests
 <hr>
-###Missed the event or want to see our red carpet interviews?<a href="http://www.launchmedia.tv/launch-media-live/avenuerougerunway2013
- ">CLICK HERE</a> to watch the LiveStream, presented by <a href="http://www.launchmedia.tv/" target="_blank">Launch Media</a>
+###Missed the event or want to see our red carpet interviews? [Click here](http://www.launchmedia.tv/launch-media-live/avenuerougerunway2013) to watch the livestream, presented by <a href="http://www.launchmedia.tv/" target="_blank">Launch Media</a>
 <hr>
 ###Add your own photo from the event and check out other attendee photos. Click the upload button below to add pictures from Instagram, Facebook, Flickr  and your computer or post them to twitter or instagram with the #ARRunway hashtag.
 <div id="olapic_widget"></div><script type="text/javascript" src="https://widgets.olapic.com/render?element_id=olapic_widget&customer_id=215621&widget_type=full&gallery=104472384"></script>
