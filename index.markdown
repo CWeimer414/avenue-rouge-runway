@@ -6,8 +6,8 @@ title: Avenue Rouge Runway
 
 ### **225 and inRegister present the biggest night of fashion in Baton Rouge!**
 This year's SOLD OUT Avenue Rouge Runway show was on September 26th at 7:00 p.m. featuring upscale boutiques from the Capital Region showcasing their hottest fall fashions, complete with food, fun, cocktails, music and more! 
-###Missed the show or want to see photos an videos from the event? Check out the photos and videos from show below.
-
+###Missed the show or want to see photos & videos from the event? 
+_**Click a gallery below to see our guest uploads, behind-the-scenes and upclose at the runway looks, or red carpet snapshots.**_
 <a href="http://photos.225batonrouge.com/123792732?fb_ref=g123792732"  target="_blank"><img style "height:150px" src="/img/guestpics.jpg" /></a> <a href="http://photos.225batonrouge.com/2115929059?fb_ref=g2115929059"  target="_blank"><img style "height:150px" src="/img/looks.jpg" /></a> <a href="http://photos.225batonrouge.com/322745737?fb_ref=g322745737"  target="_blank"><img style "height:150px" src="/img/redcarpet.jpg" /></a>
 <hr>
 ###Watch the red carpet interviews and coverage of the live show with [Krystal Bennett](http://avenuerougerunway.com/authors/krystal/) and [Jennifer Palpallatoc](http://avenuerougerunway.com/authors/jennifer/) <a href="http://www.launchmedia.tv/launchmedialive/avenuerougerunway2013"  target="_blank"> <img src="/img/ARRvideocapturev2.jpg" /></a> 
