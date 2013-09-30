@@ -10,12 +10,16 @@ This year's SOLD OUT Avenue Rouge Runway show was on September 26th at 7:00 p.m.
 
 <hr>
 <a href="http://photos.225batonrouge.com/2115929059?fb_ref=g2115929059"><img style "height:150px" src="/img/looks.jpg" /></a>
-Click the photo to get a peek backstage and at all the looks from the 2013 Runway
+
+_Before the show  and looks from the 2013 Runway_
 <hr>
 <a href="http://photos.225batonrouge.com/322745737?fb_ref=g322745737"><img style "height:300px" src="/img/redcarpet.jpg" /></a>
-Click the photo to see all our fabulous red carpet guests
+
+_Guest on the Red Carpet_
 <hr>
-###Missed the event or want to see our red carpet interviews and coverage of the live show? [![](/ARRvideocapturev2.jpg)](http://www.launchmedia.tv/launchmedialive/avenuerougerunway2013) Watch the livestream, presented by <a href="http://www.launchmedia.tv/" target="_blank">Launch Media</a>
+###Missed the event or want to see our red carpet interviews and coverage of the live show? <a href="http://www.launchmedia.tv/launchmedialive/avenuerougerunway2013"> <img src="/img/ARRvideocapturev2.jpg" /></a> 
+
+_Watch the livestream, presented by <a href="http://www.launchmedia.tv/" target="blank">Launch Media</a>_
 <hr>
 ###Add your own photo from the event and check out other attendee photos. Click the upload button below to add pictures from Instagram, Facebook, Flickr  and your computer or post them to twitter or instagram with the #ARRunway hashtag.
 <div id="olapic_widget"></div><script type="text/javascript" src="https://widgets.olapic.com/render?element_id=olapic_widget&customer_id=215621&widget_type=full&gallery=104472384"></script>
